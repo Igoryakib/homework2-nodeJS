@@ -1,0 +1,31 @@
+{
+  "name": "homework2-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igoryakib/homework2-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "Igor <igoryakib@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igoryakib/homework2-nodeJS/issues"
+  },
+  "homepage": "https://github.com/Igoryakib/homework2-nodeJS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nanoid": "^3.3.4",
+    "volleyball": "^1.5.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
